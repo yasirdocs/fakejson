@@ -19,5 +19,67 @@
     "username": "yasir",
     "pass": 123456789,
     "isLogin": 1
-  }
+  },
+  "soal" [
+    {
+      "id": "1",
+      "body": "Pemain sepakbola yang pernah membela klub Real Madrid di antaranya....",
+      "opsi": {
+        "A": { "body": "Cristiano Ronaldo" },
+        "B": { "body": "Santiago Solari" },
+        "C": { "body": "Luis Suarez" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    },
+    {
+      "id": "2",
+      "body": "Enam ditambah delapan sama dengan ....",
+      "opsi": {
+        "A": { "body": "sepuluh" },
+        "B": { "body": "tiga belas" },
+        "C": { "body": "empat belas" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    },
+    {
+      "id": "3",
+      "body": "Pemain sepakbola yang pernah membela klub Real Madrid di antaranya....",
+      "opsi": {
+        "A": { "body": "Cristiano Ronaldo" },
+        "B": { "body": "Santiago Solari" },
+        "C": { "body": "Luis Suarez" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    },
+    {
+      "id": "4",
+      "body": "Enam ditambah delapan sama dengan ....",
+      "opsi": {
+        "A": { "body": "sepuluh" },
+        "B": { "body": "tiga belas" },
+        "C": { "body": "empat belas" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    },
+    {
+      "id": "5",
+      "body": "Pemain sepakbola yang pernah membela klub Real Madrid di antaranya....",
+      "opsi": {
+        "A": { "body": "Cristiano Ronaldo" },
+        "B": { "body": "Santiago Solari" },
+        "C": { "body": "Luis Suarez" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    },
+    {
+      "id": "6",
+      "body": "Enam ditambah delapan sama dengan ....",
+      "opsi": {
+        "A": { "body": "sepuluh" },
+        "B": { "body": "tiga belas" },
+        "C": { "body": "empat belas" },
+        "D": { "body": "Lorem Ipsum" },
+      }
+    }
+  ],
 }
